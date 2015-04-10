@@ -1,2 +1,1 @@
-# PyTools
-Simple Python tools
+#PyTools
